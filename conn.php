@@ -7,6 +7,8 @@
     $conn = mysql_connect($host,$username,$password,$dbname);
     
     if (!$conn){
-        echo "Can't link database server.";
+        echo ("Can't link database server.");
+    }else {
+        echo "Connection Completed";
     }
 ?>
