@@ -1,2 +1,2 @@
-# serverlink beta2
-Added Condition Connection
+# serverlink beta3
+simple connection file
